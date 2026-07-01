@@ -1,0 +1,58 @@
+body{
+    fony-faamily:Arial;
+    margin:0;
+    background:#f4f4f4;
+}
+header{
+    background:#111827;
+    color:white;
+    padding:20px;
+    display:flex;
+    justify-content:space-between;
+}
+nav a{
+    color:white;
+    margin:10px;
+    text-decoration:none;
+}
+section{
+    padding:40px;
+    text-align:center;
+}
+.container{
+    background:white;
+    width:350px;
+    margin:30px auto;
+    padding:25px;
+    border-radius:10px;
+}
+input{
+    width:90%;
+    padding:12px;
+    margin:10px;
+}
+button{
+    background:#2563eb;
+    color:white;
+    padding:12px 20px;
+    border:none;
+    border-radius:5px;
+}
+.plans{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+}
+.card{
+    background:white;
+    padding:25px;
+    width:200px;
+    box-shadow:0 0 10px grey;
+    border-radius:10px;
+}
+footer{
+    background:#111827;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
